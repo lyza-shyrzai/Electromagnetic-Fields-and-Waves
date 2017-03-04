@@ -8,6 +8,7 @@ u = np.array     ([15, 150, 100, 300, 100, 130, 60])
 
 plt.plot(angles, u)
 #plt.yscale('log')
+plt.title("H-sectorial horn antenna in the E-plane")
 plt.xlabel('angles')
 plt.ylabel('u, µV')
 
