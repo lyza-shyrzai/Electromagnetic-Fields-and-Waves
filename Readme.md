@@ -4,6 +4,7 @@ Here will be research on laboratory work course "Electromagnetic Fields and Wave
 
 1. [Yagi antennas](https://github.com/Liza-S/Electromagnetic-Fields-and-Waves/tree/master/Yagi%20antennas)
 2. [Horn antennas](https://github.com/Liza-S/Electromagnetic-Fields-and-Waves/tree/master/Horn%20antennas)
+3. [Helical antennas](https://github.com/Liza-S/Electromagnetic-Fields-and-Waves/tree/master/Helical%20antennas)
 
 
 ![](https://github.com/Liza-S/Electromagnetic-Fields-and-Waves/blob/master/Untitled%20(1).jpg)
