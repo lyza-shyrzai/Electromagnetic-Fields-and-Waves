@@ -11,7 +11,7 @@ u = np.array     ([80, 180, 50, 2000, 400, 550, 400])
 
 plt.plot(angles, u)
 plt.title("Plot of working antenna in the E-plane")
-plt.text(-78, 1840, s="d(Coil diameter) = 10 mm \nS(distance between the coils) = 5 mm", bbox = {"boxstyle":"square", "facecolor":"w"})
+plt.text(-78, 1835, s="d(Coil diameter) = 10 mm \nS(distance between the coils) = 5 mm", bbox = {"boxstyle":"square", "facecolor":"w"})
 plt.xlabel('angles')
 plt.ylabel('u, µV')
 
